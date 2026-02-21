@@ -8,7 +8,7 @@ Teams often pass along half-finished notes, scattered Slack threads, or vague re
 
 BriefCraft detects the right briefing mode, asks targeted questions to fill gaps, and outputs two things:
 
-- A **Notion-style one-pager** with full detail
+- A **Notion-style briefing page** with full detail
 - A **Slack-ready summary** (8-12 lines) you can paste and share
 
 ## Modes
